@@ -30,7 +30,7 @@
     "echo Starting program...\n",
     "echo.\n",
     "\n",
-    "python run_futures_execution.py\n",
+    "python run_futures.py\n",
     "\n",
     "pause"
    ]
