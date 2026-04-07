@@ -1,6 +1,4 @@
-~Personal Learning~
-
-Reinforcement Learning Futures Execution Algorithm 
+Reinforcement Learning Futures Execution Algorithm (Personal Learning)
 Overview:
 
 This project builds a trading algorithm that helps execute large futures orders efficiently in the market.
